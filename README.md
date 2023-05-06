@@ -5,3 +5,6 @@
 - 🕸 Website: www.frodehus.dev
 
 
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodehus&count_private=true&show_icons=true&theme=transparent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frodehus&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
